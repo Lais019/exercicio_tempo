@@ -1,0 +1,20 @@
+body{
+    background-image: url('imagem/fundo.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fundo{
+    padding: 10px;
+    width: 800px;
+    height: 650px;
+    background-color:rgba(240, 248, 240, 0.521);
+    text-align: center;
+    margin: 0 auto;
+    
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+}
+
